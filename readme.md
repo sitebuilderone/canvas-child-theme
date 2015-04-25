@@ -10,3 +10,8 @@ Simple download-able files for setting up a child theme in Canvas.
 ------------------------
 Have at it. Feel free to modify, change, build upon and more.
 Have fun!
+
+Additional documentaton by Woothemes located here:
+https://support.woothemes.com/hc/en-us/articles/203105897-How-to-setup-and-use-a-child-theme
+
+
